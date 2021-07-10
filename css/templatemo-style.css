@@ -839,3 +839,6 @@ p {
   background: linear-gradient(271deg, #000, #313131);
 }
 /* END OF CUSTOM SCROLLBAR */
+.row a{
+  color: #02FEFE;
+}
